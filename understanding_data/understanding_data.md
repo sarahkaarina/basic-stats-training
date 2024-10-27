@@ -33,7 +33,7 @@ The fisherman go out for another 9 days and still catch only tuna. On the 10th d
 
 And so the fisherman start arguing and placing bets again and again and again. 
 
-And this, in a nut-shell, is what makes Mark Twain's words still ring true to this day. 
+And this, in a nut-shell, is why statistical models doesn't always do what the company wants them to do (and what makes Mark Twain's words still ring true to this day). 
 
 # How to use this git repository
 
