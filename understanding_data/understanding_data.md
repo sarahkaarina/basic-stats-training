@@ -47,14 +47,14 @@ The only pre-requiste is basic knowledge of jupyter/notebook environments. The c
 
 This git repository is a library of knowledge on basic statistics I've acquired throughout my studies and teaching experience. However, it came about because I had many, many years of experience navigating convoluted forum answers, lengthy you tube videos, and patches of different coding languages. I've found many amazing resources in my time, but one thing I've found useful (but rare) are quick and readible ways that show me (a) the statistical model I need to use, (b) how it's implemented, (c) code that allows me to implement it and (d) how the results can be interpreted. 
 
-Therefore, this repo is divided in to sub-sections on the basis of how models compare data (for example, "pairwise tests" will talk you through tests that compare groups of data versus "relational/predictive tests" will talk you through tests that look for trends in data). See further below for a more detailed explanation of the sub-sections.
-
-Then in each of the folders you will find a read me file that introduces the tests. For each of the models/statistical tests in the folder, there will be a jupyter notebook that presents some fake data and shows you: 
+Therefore, in each of the folders you will find a read me file that introduces the tests. For each of the models/statistical tests in the folder, there will be a jupyter notebook that presents some fake data and shows you: 
 
 1) how to check your data meets the criteria for applying that specific test
 2) how to implement that specific test
 3) how to interpret the results of that test
 4) how to graph/represent the data to better understand the results of the test
+
+This repo is divided in to sub-sections on the basis of how models compare data (for example, "pairwise tests" will talk you through tests that compare groups of data versus "relational/predictive tests" will talk you through tests that look for trends in data). See further below for a more detailed explanation of the sub-sections.
 
 **Discipline neutral**
 
