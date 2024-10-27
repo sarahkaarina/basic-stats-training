@@ -66,7 +66,7 @@ If you have any suggestions of what could be added to this repo or a statistical
 
 **Disclaimer!**
 
-I am NOT a statastician or mathematician. But I love statistics and I love maths and, mostly, I love finding new and interesting ways to intepret my data in a way that pushes whatever work I'm doing forward. In academic research, I often find that different disciplines are siloed away from each-other and while we may all be working on similair data, this siloing can sometimes push researchers into using statistical models out of a sense of familiarity because they are what they been taught from their field (+) (++). 
+I am NOT a statastician or mathematician. But I love statistics and I love maths and, mostly, I love finding new and interesting ways to intepret my data in a way that pushes whatever work I'm doing forward. In academic research, I often find that different disciplines are siloed away from each-other and while we may all be working on similair data, this siloing can sometimes push researchers into using statistical models out of a sense of familiarity because it's what they've been taught from their field (+) (++). 
 
 Also, there are always new methods and new models being developed by reseachers every day. Why not use them? I believe thet really understanding your data, how it can be interpreted through standard tests and, overall, just sitting in the trenches of what it means to be a 'data scientist' is just, simply put, an amazing use of one's time.
 
