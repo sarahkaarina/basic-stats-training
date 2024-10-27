@@ -39,7 +39,7 @@ And this, in a nut-shell, is why statistical models doesn't always do what the c
 
 **Pre-requisites**
 
-The only pre-requiste is basic knowledge of jupyter/notebook environments. The code is written in python, but the notebookes will talk you through in detail what each chuk of the code does so no previous knowledge of python should be required. 
+The only pre-requiste is basic knowledge of jupyter/notebook environments (see here for an intro on how to use them: https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb). The code is written in python, but the notebookes will talk you through in detail what each chuk of the code does so no previous knowledge of python should be required. 
 
 (One day, I may also extend this repository to also include version of these notebooks in R).
 
