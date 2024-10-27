@@ -58,7 +58,7 @@ This repo is divided in to sub-sections on the basis of how models compare data 
 
 **Discipline neutral**
 
-Because I have habit of bouncing through disciplines (and I'm no mathematician) I spend a lot of time digesting different terminologies and applications of models to churn them into something applicable to my work. 
+Because I have habit of bouncing through disciplines I spend a lot of time digesting different terminologies and applications of models to churn them into something applicable to my work. 
 
 Therefore, none of the tests in this repo are presented to be used for a specific discpline (hence the fake research scenarios and data). Most tests will come from the field of psychology/neuroscience as that is mainly my background. However (see first point of this paragraph), if I come across something new from a further field (for example, I'm currently entrenched in applying mantel (field: ecology) and cointegration (field: econometrics) tests to my data) I will dump it into this repo.
 
