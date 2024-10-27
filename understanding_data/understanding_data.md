@@ -7,7 +7,9 @@ My sister manages a group of data scientists for a living, despite not being a d
 
 She says to me: "It's like, you know, if you *really* wanted to you can prove that 2 + 2 = 5. If you wanted to!"
 
-And while I appreciate the fevour (and the frustation that comes with dealing with a plethora of different models and different outcomes), I had to point out that her analogy was not quite accurate. Instead, this was my response. 
+And while I appreciate the fevour (and the frustation that comes with dealing with a plethora of different models and different outcomes), I had to point out that her analogy was not quite accurate. 
+
+Instead, this was my response (well actually, the far better, much more elaborate version of my response). 
 
 Imagine data as an ocean and your data-scientists as fishermen (yes, for those who realise where this is going, the analogy is going to get very on the nose, very fast). On their first day of fishing, they only catch tuna. 
 
