@@ -27,7 +27,7 @@ Fisherman 6 finishes by saying:
 
 "Well, I bet if we had longer fishing lines we'd also be able to catch sword-fish."
 
-The fisherman go out for another 9 days and still catch only tuna. On the 10th day, they catch a couple of sword-fish. Fisherman 1 and 2 become disgruntled, so fisherman 2 says:
+The fisherman go out for another 9 days and still catch only tuna. On the 10th day, they catch a couple of sword-fish. Fisherman 1 and 3 become disgruntled, so fisherman 2 says:
 
 "I don't think I'm wrong, I'm just saying that today they wind and currents were the strongest they've been since we started fishing. Who's to say the current and wind didn't blow the sword-fish into this area of the ocean?"
 
